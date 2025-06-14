@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kgomotso-Ayal
-- 👀 I’m interested in learning new things and exploring other careers
-- 🌱 I’m currently learning Information Technology
+- 👀 I’m interested in learning new things and exploring other opportunities
+- 🌱 Studied Information Technology at Vaal University of Technology
 - 📫 How to reach me (use the links to my socials on my profile)
 
 <!---
